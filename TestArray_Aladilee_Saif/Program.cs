@@ -8,7 +8,7 @@ namespace TestArray_Aladilee_Saif
         static void Main(string[] args)
         {
             int[] arr1 = new int[] { 1, 2, 3, 4, 5 };
-            int[] arr2 = { 6, 7, 8, 9, 10 };
+            int[] arr2 = new int[] { 6, 7, 8, 9, 10 };
 
             for (int i = 0; i < arr1.Length; i++)
             {
